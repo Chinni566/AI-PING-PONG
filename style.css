@@ -17,6 +17,10 @@ text-align: left;
 font-size: 25px;
 }
 
+.modal-dialog{
+    width: 90%;
+}
+
 canvas 
   {
 
@@ -26,4 +30,13 @@ canvas
       box-shadow:  8px 8px 8px white;
   }
 
-  
+  h4
+{
+   background-color: grey;
+   color:white;
+   line-height: 2;
+   text-align: center;
+   align-items: baseline;
+
+}
+
