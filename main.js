@@ -26,7 +26,8 @@ function setup(){
 	canvas.parent("canvas");	
   video = createCapture(VIDEO);
   video.size(700, 600);
-  video.hide();
+  
+
 }
 
 
